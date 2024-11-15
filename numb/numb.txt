@@ -1,14 +1,1 @@
-
-iikita@DESKTOP-6D0KEUJ MINGW64 /E/primenumber (master)
-$ ls -a
-./  ../  .git/  numb/  prime-number.py
-hello
-q
-
-
-
-
-
-
-Q
-
+print the prime number and take the changes
